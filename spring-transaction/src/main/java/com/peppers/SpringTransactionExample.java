@@ -21,6 +21,8 @@ import java.sql.SQLException;
  **/
 public class SpringTransactionExample {
 
+
+
     private static String url = "jdbc:mysql://121.196.205.196:3306/mydb";
     private static String user = "root";
     private static String password = "123456";
