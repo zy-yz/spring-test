@@ -11,6 +11,7 @@
     <modules>
         <module>spring-transaction</module>
         <module>spring-ioc</module>
+        <module>proxyCoustom</module>
     </modules>
 
     <properties>

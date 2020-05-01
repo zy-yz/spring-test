@@ -1,0 +1,15 @@
+
+zsquid:S1488"\Immediately return this expression instead of assigning it to the temporary variable "conn".(»Î„ô8Ö²Â¶˜.
+Psquid:S1199."-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8©Æ‚·˜.
+>squid:S2068" Remove this hard-coded password.(»Î„ô8Ö²Â¶˜.
+Psquid:S11998"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8©Æ‚·˜.
+gsquid:S2583C"DChange this condition so that it does not always evaluate to "false"(øüÅ²ûÿÿÿÿ8©Æ‚·˜.
+msquid:S20950"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ü¹’¦8©Æ‚·˜.
+msquid:S2095:"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.( š¥Ş8©Æ‚·˜.
+V
+squid:S1065"9Replace this use of System.out or System.err by a logger.(İœê‰8ˆĞş×˜.
+tsquid:S2068"V'password' detected in this expression, review this potentially hard-coded credential.(å½ı¨8›¾¶˜.
+V
+squid:S106B"9Replace this use of System.out or System.err by a logger.(”ùš¦8©Æ‚·˜.
+Fsquid:S1148@"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8©Æ‚·˜.
+nsquid:CommentedOutCodeLine="<This block of commented-out lines of code should be removed.(òııÿÿÿÿ8‘ò†·˜.
