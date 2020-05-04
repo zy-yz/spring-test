@@ -12,6 +12,7 @@
         <module>spring-transaction</module>
         <module>spring-ioc</module>
         <module>proxyCoustom</module>
+        <module>spring-xml</module>
     </modules>
 
     <properties>
